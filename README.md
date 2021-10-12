@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Emmanuel, a backend developer at TeckPlus Digital Solutions.
+I am Emmanuel, a backend software engineer at TeckPlus Digital Solutions.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
