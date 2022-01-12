@@ -1,9 +1,5 @@
 ### Hi there 👋
-I am Emmanuel, a Software engineer with valuable experience in various development cycle, capable of architecting a
-software application backend for efficiency both in term of cost and performance. Proficient with NodeJs,
-NestJs, Typescript, Javascript, Python and several other tools with valuable cloud experience using
-Amazon web services. Can also work with both Relational and NoSQL database and can perform complex
-computations using mongodb aggregation queries.
+Software engineer with valuable experience in various development cycles, able to architect, design and implement backend APIs. Proficient with NodeJs, NestJs, Typescript, JavaScript, Python and several other tools with valuable cloud experience using Amazon web services. I can work with both Relational and NoSQL databases.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
