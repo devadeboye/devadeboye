@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 
 [![devadeboye's github stats](https://github-readme-stats.vercel.app/api?username=devadeboye&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
+### Projects
+- [OneRoute](https://oneroute.io/)
+- [Futurex State Portal](https://state.futurex.ng)
+- [Futurex District Portal](https://district.futurex.ng)
+- [Futurex School Portal](https://school.futurex.ng)
+- [Futurex Cbt Portal](https://futurex-cbt-admin.netlify.app)
+- [Datawiz](https://datawiztech.netlify.app/)
+
 ### Follow me:
 
 <a href="https://www.linkedin.com/in/devadeboye/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
