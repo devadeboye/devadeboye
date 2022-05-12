@@ -1,5 +1,5 @@
 ### Hi there 👋
-Software engineer with valuable experience in various development cycles, able to architect, design and implement backend APIs. Proficient with NodeJs, NestJs, Typescript, JavaScript, Python and several other tools with valuable cloud experience using Amazon web services. I can work with both Relational and NoSQL databases.
+I am an Engineer with a good understanding of design patterns, algorithms and data structure and I love building things. I work with Nodejs, NestJs, React, JavaScript, TypeScript, Python and many other tools and can work with both SQL and NoSQL databases.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
