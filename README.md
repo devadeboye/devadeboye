@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ### Projects
 - [OneRoute](https://app.oneroute.io/)
+- [Lotus Capital](https://www.lotuscapitallimited.com/home/)
 - [Futurex State Portal](https://state.futurex.ng)
 - [Futurex District Portal](https://district.futurex.ng)
 - [Futurex School Portal](https://school.futurex.ng)
