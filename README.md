@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Engineer with good understanding of design patterns, algorithms and data structure and I love building things. I work with Nodejs, NestJs, React, JavaScript, TypeScript, Python and many other tools and can work with both SQL and NoSQL databases.
+I am a skilled Software backend engineer with remarkable experience building software products and I have huge experience with tools like NodeJs, Python, MongoDB, PostgreSQL, MySQL, CICD pipelines, Amazon web services, Redis, GraphQL, React etc. I currently lead a team of 13 software engineers and I and my team architect and build infrastructures used globally.  I have solid knowledge of software development best practices and I am a proud AWS certified cloud practitioner.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
