@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### Projects
 projects | projects | projects
 :---: | :---: | :---:
-| [OneRoute](https://app.oneroute.io/) | [Lotus Capital](https://www.lotuscapitallimited.com/home/) | [Futurex State Portal](https://state.futurex.ng) |
+| [CheckIn](https://usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com/home/) | [Futurex State Portal](https://state.futurex.ng) |
 | [Futurex District Portal](https://district.futurex.ng) | [Futurex School Portal](https://school.futurex.ng) | [Futurex Cbt Portal](https://futurex-cbt-admin.netlify.app) |
-| [Datawiz](https://datawiztech.netlify.app/) |
+| [OneRoute](https://app.oneroute.io/) | [Datawiz](https://datawiztech.netlify.app/) | [Futurex Private School Portal](https://private.futurex.ng)
 
 ### Follow me:
 
