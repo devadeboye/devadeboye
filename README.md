@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a skilled Software backend engineer with remarkable experience building software products and I have huge experience with tools like NodeJs, Python, MongoDB, PostgreSQL, MySQL, CICD pipelines, Amazon web services, Redis, GraphQL, React etc. I currently lead a team of 13 software engineers and I and my team architect and build infrastructures used globally.  I have solid knowledge of software development best practices and I am a proud AWS certified cloud practitioner.
+Highly skilled and experienced software engineer with over 4 years of experience working with Node.js and a deep understanding of other tools such as React, NextJs, TypeScript, Amazon Web Services, Microservices, Relational Database, and No-SQL Database. Proven track record in developing high-performance, scalable, and reliable software systems.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
