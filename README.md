@@ -1,5 +1,5 @@
 ### Hi there 👋
-Highly skilled and experienced software engineer with over 4 years of experience working with Node.js and a deep understanding of other tools such as React, NextJs, TypeScript, Amazon Web Services, Microservices, Relational Database, and No-SQL Database. Proven track record in developing high-performance, scalable, and reliable software systems.
+Highly skilled and experienced software engineer with over 4 years of experience working with Node.js and a deep understanding of other tools such as React, NextJs, Flutter, TypeScript, Amazon Web Services, Microservices, Relational Database, and No-SQL Database. Proven track record in developing high-performance, scalable, and reliable software systems.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
