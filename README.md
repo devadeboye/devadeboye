@@ -1,5 +1,5 @@
 ### Hi there 👋
-Highly skilled and experienced software engineer with over 4 years of experience working with Node.js and a deep understanding of other tools such as React, NextJs, Flutter, TypeScript, Amazon Web Services, Microservices, Relational Database, and No-SQL Database. Proven track record in developing high-performance, scalable, and reliable software systems.
+Experienced Software Engineer with a strong skill set in cutting-edge technologies including Node.js, Nest.js, React.js, TypeScript, Amazon Web Services (AWS), Redux, and Python. Adept at both relational and non-relational databases, I bring a wealth of knowledge to the table. As a proven team leader, I've successfully guided and collaborated with cross-functional teams to deliver high-quality software solutions. My passion for innovation and continuous learning ensures I stay at the forefront of the ever-evolving tech landscape, making me a valuable asset to any development project.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
