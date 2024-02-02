@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-[![devadeboye's github stats](https://github-readme-stats.vercel.app/api?username=devadeboye&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+<!-- [![devadeboye's github stats](https://github-readme-stats.vercel.app/api?username=devadeboye&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]() -->
 
 <!-- # language stats
 [![devadeboye's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=devadeboye&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]() -->
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Projects
 projects | projects | projects
 :---: | :---: | :---:
-| [CheckIn](https://usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com/home/) | [Futurex State Portal](https://state.futurex.ng) |
+| [CheckIn](https://host.usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com/home/) | [Futurex State Portal](https://state.futurex.ng) |
 | [Futurex District Portal](https://district.futurex.ng) | [Futurex School Portal](https://school.futurex.ng) | [Futurex Cbt Portal](https://futurex-cbt-admin.netlify.app) |
 | [OneRoute](https://app.oneroute.io/) | [Datawiz](https://datawiztech.netlify.app/) | [Futurex Private School Portal](https://private.futurex.ng)
 
