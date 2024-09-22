@@ -1,5 +1,5 @@
 ### Hi there 👋
-Experienced Software Engineer with a strong skill set in cutting-edge technologies including Node.js, Nest.js, React.js, TypeScript, Amazon Web Services (AWS), Redux, and Python. Adept at both relational and non-relational databases, I bring a wealth of knowledge to the table. As a proven team leader, I've successfully guided and collaborated with cross-functional teams to deliver high-quality software solutions. My passion for innovation and continuous learning ensures I stay at the forefront of the ever-evolving tech landscape, making me a valuable asset to any development project.
+Versatile Software Engineer skilled in Node.js, React.js, TypeScript, AWS, and Python. Proven leader in delivering scalable, high-impact solutions across diverse databases. Driven by innovation and always ahead of the curve, I thrive in fast-paced, tech-forward environments
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
