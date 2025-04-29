@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Projects
 projects | projects | projects
 :---: | :---: | :---:
-| [CheckIn](https://host.usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com/home/) | [Futurex State Portal](https://state.futurex.ng) |
+|[Circo](https://circo.live)| [CheckIn](https://host.usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com) | [Futurex State Portal](https://state.futurex.ng) |
 | [Futurex District Portal](https://district.futurex.ng) | [Futurex School Portal](https://school.futurex.ng) | [Futurex Cbt Portal](https://futurex-cbt-admin.netlify.app) |
 | [OneRoute](https://app.oneroute.io/) | [Datawiz](https://datawiztech.netlify.app/) | [Futurex Private School Portal](https://private.futurex.ng)
 
