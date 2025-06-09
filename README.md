@@ -1,7 +1,11 @@
 ### Hi there 👋
-Circo has benefited from my expertise as a Senior Software Engineer, where I lead backend development initiatives focused on modernizing legacy systems and enhancing performance. With proficiency in Node.js, Kafka, and GraphQL, I enable the development of scalable, microservices-driven architectures while prioritizing seamless inter-service communication and flexible data access. My work includes pioneering video optimization solutions to ensure adaptive streaming across diverse network conditions. 
-
-Over Five years of professional experience have honed my ability to design and implement robust backend systems that align with business goals. At Usecheckin Inc., I led teams in delivering critical features for competitive platforms, emphasizing collaboration and timely execution. My passion lies in creating efficient systems that empower organizations to scale effectively while maintaining a commitment to innovation and operational excellence.
+Senior Software Engineer with over 5 years of experience, driving impactful backend development and
+system modernization with Node.js, Kafka, and GraphQL. Adept at architecting scalable microservices
+and optimizing complex data flows. My strong proficiency in frontend development (React, Next.js,
+Redux, Tailwind CSS) allows me to contribute across the entire stack, solving UI challenges and ensuring
+seamless integration. My track record at Circo and other competitive platforms showcases a proven
+ability to build high-performance solutions, manage teams, and lead innovation in dynamic tech
+environments.
 
 <!--
 **devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
