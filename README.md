@@ -76,7 +76,7 @@ I thrive on transforming complex challenges into efficient, high-performance sys
 <td width="50%" valign="top">
 
 ### Circo Backend Transformation
-<img src="https://raw.githubusercontent.com/devadeboye/devadeboye/main/assets/circo-preview.png" alt="Circo Project"/>  
+<img src="https://raw.githubusercontent.com/devadeboye/devadeboye/main/assets/circo-preview.jpeg" alt="Circo Project"/>  
 Led the overhaul of a slow Java monolith to a high-performance Node.js microservices architecture.
 
 **Tech:** `Node.js` `Java` `Kafka` `GraphQL` `HLS` `Microservices`
