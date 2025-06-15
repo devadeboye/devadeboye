@@ -1,52 +1,104 @@
-### Hi there 👋
-Senior Software Engineer with over 5 years of experience, driving impactful backend development and
-system modernization with Node.js, Kafka, and GraphQL. Adept at architecting scalable microservices
-and optimizing complex data flows. My strong proficiency in frontend development (React, Next.js,
-Redux, Tailwind CSS) allows me to contribute across the entire stack, solving UI challenges and ensuring
-seamless integration. My track record at Circo and other competitive platforms showcases a proven
-ability to build high-performance solutions, manage teams, and lead innovation in dynamic tech
-environments.
+# Hi there 👋 I'm Emmanuel!
 
-<!--
-**devadeboye/devadeboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Software Engineer | Full-Stack Developer | Backend & Frontend Expert
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on `Solar Estimator`
-- 🌱 I’m currently learning ...
-<!-- - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+---
+
+### 🚀 About Me
+
+I'm a passionate **Senior Software Engineer** with over 5 years of experience, specializing in building and optimizing robust, scalable software solutions. My expertise spans the **full-stack**, combining deep proficiency in **backend development** with **Node.js** and related technologies, and strong capabilities in modern **frontend frameworks** like React and Next.js.
+
+I thrive on transforming complex challenges into efficient, high-performance systems. My career has been focused on modernizing legacy applications, architecting microservices, and delivering end-to-end solutions that significantly enhance user experience and drive business growth. I am passionate about clean code, continuous learning, and fostering collaborative team environments.
+
+---
+
+### 🛠️ My Stack & Toolkit
+
+Here are some of the technologies I work with:
+
+**Frontend Development:**
+* **Frameworks:** React.js, Next.js
+* **State Management:** Redux, Zustand, Context API
+* **Styling:** Tailwind CSS
+* **Data Fetching:** React Query
+
+**Backend Development:**
+* **Languages/Runtimes:** Node.js, Python
+* **Frameworks:** NestJS, Express.js
+* **Message Brokers:** Kafka
+* **APIs:** REST, GraphQL
+
+**Databases:**
+* PostgreSQL (Relational)
+* Redis (Caching)
+
+**Cloud & DevOps:**
+* AWS (Lambda, CloudFormation, S3, EC2)
+* Kubernetes (Container Orchestration)
+* Docker
+
+**Testing & Methodologies:**
+* Unit Testing, Integration Testing
+* Code Reviews, Pair Programming
+* Agile/Scrum
+
+---
+
+### ✨ Featured Projects
+
+Here are some highlights of my work, showcasing my skills across the stack:
 
 
-### Languages & Tools
+#### 1. Circo Backend Transformation & Video Optimization
+* **Description:** Led the overhaul of a slow Java monolith to a high-performance Node.js microservices architecture. Pioneered adaptive video streaming solutions and collaborated closely with frontend teams for superior user experience.
+* **Technologies:** Node.js, Java, Kafka, GraphQL, HLS, Microservices
+* **Key Features:** System modernization, scalable architecture, optimized video delivery (240p, 360p, 480p), caching.
+* **Live Demo:** [click here](https://play.google.com/store/apps/details?id=com.app.circo)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+#### 2. Usecheckin Inc. Platform Enhancements
+* **Description:** Led end-to-end development for critical apartment listing and real-time chat features on a competitive vacation rental platform. Provided key frontend support, including advanced dynamic routing.
+* **Technologies:** Node.js, Next.js, [Other relevant backend/frontend tech from Usecheckin]
+* **Key Features:** Apartment listings, real-time chat, dynamic routing in Next.js.
+* **Live Demo:** [click here](https://host.usecheckin.com)
 
+#### 3. Mini Jira Clone (Full-Stack Assessment)
+* **Description:** Developed a comprehensive full-stack application mirroring core functionalities of a Jira-like issue tracking system, built as a challenging assessment.
+* **Technologies:** Next.js, React, **Zustand** (State Management), **React Query** (Data Fetching), Node.js (Backend), [PostgreSQL], Express/NestJS.
+* **Key Features:** Issue creation/management, task status workflows, user authentication, responsive UI.
+* **Live Demo:** Undergoing deployment
+* **GitHub Repo:** [view source code](https://github.com/devadeboye/mini-jira)
 
-<!-- [![devadeboye's github stats](https://github-readme-stats.vercel.app/api?username=devadeboye&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]() -->
-
-<!-- # language stats
-[![devadeboye's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=devadeboye&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]() -->
-
-### Projects
-projects | projects | projects
-:---: | :---: | :---:
-|[Circo](https://circo.live)| [CheckIn](https://host.usecheckin.com) | [Lotus Capital](https://www.lotuscapitallimited.com) | [Futurex State Portal](https://state.futurex.ng) |
+---
+### Other Projects
+|                        projects                        |                      projects                      |                          projects                           |
+| :----------------------------------------------------: | :------------------------------------------------: | :---------------------------------------------------------: |
+|              [OneRoute](https://app.oneroute.io/)               |       [CheckIn](https://host.usecheckin.com)       |    [Lotus Capital](https://www.lotuscapitallimited.com)     | [Futurex State Portal](https://state.futurex.ng) |
 | [Futurex District Portal](https://district.futurex.ng) | [Futurex School Portal](https://school.futurex.ng) | [Futurex Cbt Portal](https://futurex-cbt-admin.netlify.app) |
-| [OneRoute](https://app.oneroute.io/) | [Datawiz](https://datawiztech.netlify.app/) | [Futurex Private School Portal](https://private.futurex.ng)
+|          -          |    -     | [Futurex Private School Portal](https://private.futurex.ng) |
+---
 
-### Follow me:
+### 💼 Professional Experience (Brief Overview)
+
+* **Senior Software Engineer** @ Circo | 2024 – Present
+* **Team Lead/Software Engineer** @ Checkin Inc, U.S.A. | 2022 – 2024
+* **Backend Developer** @ OneRoute | 2022
+* **Backend Developer** @ Techplus Digital Solutions | 2020 – 2023
+
+---
+
+### 🌱 Always Learning & Exploring
+
+* Currently delving deeper into [e.g., advanced AI/ML integration, specific cloud services, new design patterns].
+* Passionate about building scalable systems that solve real-world problems.
+
+---
+
+### 📞 Let's Connect!
 
 <a href="https://www.linkedin.com/in/devadeboye/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/devadeboye" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:emmanueladeboye2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+---
+
+
