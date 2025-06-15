@@ -131,7 +131,7 @@ timeline
     2024 : Senior Software Engineer @ Circo
     2022 : Team Lead/Software Engineer @ Checkin Inc, U.S.A.
     2022 : Backend Developer @ OneRoute
-    2020 : Backend Developer @ Techplus Digital Solutions
+    2020 : Engineering Manager/Backend Developer @ Techplus Digital Solutions
     2015 : Software Developer @ Freelance
 ```
 
