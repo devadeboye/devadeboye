@@ -20,7 +20,7 @@ I thrive on transforming complex challenges into efficient, high-performance sys
   
 </div>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & **Tools**
 
 <table>
 <tr>
@@ -132,6 +132,7 @@ timeline
     2022 : Team Lead/Software Engineer @ Checkin Inc, U.S.A.
     2022 : Backend Developer @ OneRoute
     2020 : Backend Developer @ Techplus Digital Solutions
+    2015 : Software Developer @ Freelance
 ```
 
 ## 📈 GitHub Stats
